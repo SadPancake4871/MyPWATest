@@ -1,0 +1,17 @@
+{
+  "name": "My First PWA",
+  "short_name": "MFPWA",
+  "description": "My First Github Page as a Progressive Web App",
+  "scope": "/MyPWATest/",
+  "start_url": "/MyPWATest/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/MyPWATest/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
+}
